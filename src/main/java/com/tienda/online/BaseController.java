@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.tienda.online.modelo.dto.response.ErrorResponse;
-
+//Prueba
 @RestController
 public class BaseController {
 	@ResponseStatus(HttpStatus.NOT_FOUND)
